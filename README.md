@@ -33,16 +33,26 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/FireStore-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
+<br><br>
+💻Tools💻
+<br>
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
+<br>
 
 
 </div>
 
-<br>
-
+<br><br><br>
+<div align=center>
 <img width="300" alt="스크린샷 2022-12-11 오후 8 29 16" src="https://user-images.githubusercontent.com/86508110/208295574-74e52105-e901-4042-81c4-a643ae4b0421.png">
 <img width="300" alt="스크린샷 2022-12-12 오후 4 18 30" src="https://user-images.githubusercontent.com/86508110/208295563-f31e88c2-59d5-4095-a146-45649fbf36af.png">
+<br>
 <img width="300" alt="스크린샷 2022-12-11 오후 8 34 09" src="https://user-images.githubusercontent.com/86508110/208295575-fb5e0b52-f63d-4dbd-b71b-de5ccc7d601d.png">
-<img width="300" alt="스크린샷 2022-12-11 오후 10 04 24" src="https://user-images.githubusercontent.com/86508110/208295572-8e9b180d-9e25-41cf-abd5-7a44f7fb1ce8.png">
+<img width="300" alt="스크린샷 2022-12-11 오후 10 04 24" src="https://user-images.githubusercontent.com/86508110/208295572-8e9b180d-9e25-41cf-abd5-7a44f7fb1ce8.png"><br>
 <img width="300" alt="스크린샷 2022-12-11 오후 8 34 40" src="https://user-images.githubusercontent.com/86508110/208295570-5ece8800-242a-42b2-b332-fb7ceedbc8e7.png">
-<img width="300" alt="스크린샷 2022-12-12 오후 4 18 12" src="https://user-images.githubusercontent.com/86508110/208295569-b0f37a3d-0b4a-4e38-aff8-0e2175f0ddd7.png">
+<img width="300" alt="스크린샷 2022-12-12 오후 4 18 12" src="https://user-images.githubusercontent.com/86508110/208295569-b0f37a3d-0b4a-4e38-aff8-0e2175f0ddd7.png"><br>
 <img width="300" alt="스크린샷 2022-12-11 오후 8 39 14" src="https://user-images.githubusercontent.com/86508110/208295579-7196eee0-57a5-42bf-944f-123b216e2574.png">
+</div>
