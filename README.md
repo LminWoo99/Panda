@@ -1,4 +1,5 @@
 # Panda
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Panda%20&fontSize=90)
 
 <h1>2022 캡스톤 출품작</h1>
 
