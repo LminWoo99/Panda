@@ -17,7 +17,7 @@
 <h2>메인기능</h2>
 1. 로그인 및 회원가입(파이어베이스)<br><br>
 2. 감염병 상세 정보 기능)<br>
-  -https://www.data.go.kr/iim/api/selectAPIAcountView.do(공공데이터포털 감염병 상세정보 api 사용))<br><br>
+  -https://www.data.go.kr/iim/api/selectAPIAcountView.do (공공데이터포털 감염병 상세정보 api 사용)<br><br>
 3. 코로나 지역별 현황 기능)<br>
  -https://api.corona-19.kr (굿바이 코로나 api 사용))<br><br>
 4. 감염병 리뷰 및 벌점기능(댓글 기능 까지))<br><br>
