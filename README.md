@@ -22,14 +22,22 @@
  - 댓글 기능 구현으로서 사용자들의 원할할 소통을 제공
    
  - 벌점 기능으로 아픈 정도르 표현
-   
-<h2>개발 도구</h2>
 
-언어/프레임워크 : 자바
 
-Server : FireBase
+<div align=center>
+<h2>📚Tech Stack📚</h2>
 
-DB : FireStore(NoSql)
+✨Platforms&Languages✨
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/FireStore-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
+
+
+</div>
+
+<br>
 
 <img width="300" alt="스크린샷 2022-12-11 오후 8 29 16" src="https://user-images.githubusercontent.com/86508110/208295574-74e52105-e901-4042-81c4-a643ae4b0421.png">
 <img width="300" alt="스크린샷 2022-12-12 오후 4 18 30" src="https://user-images.githubusercontent.com/86508110/208295563-f31e88c2-59d5-4095-a146-45649fbf36af.png">
